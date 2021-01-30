@@ -2,7 +2,7 @@
    font-family: "simraitswe";
    font-style: normal;
    font-weight: normal;
-   src: url("/simraitswe.woff") format('woff');
+   src: url("/simraitswe.woff") format('woff'), url("/simraitswe.tff") format('truetype');
 }
 body {
     font-size: 15pt;

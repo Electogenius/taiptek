@@ -1,0 +1,25 @@
+@font-face {
+   font-family: "simraitswe";
+   font-style: normal;
+   font-weight: normal;
+   src: url("/simraitswe.woff") format('woff');
+}
+body {
+    font-size: 15pt;
+    font-family: simraitswe;
+    font-style: normal;
+    color: white;
+    background-color: black;
+    font-size: 10px
+}
+textarea{
+ font-size: 15pt;
+ font-family: simraitswe;
+ font-style: normal;
+ color: white;
+ background-color: black;
+ font-size: 15px;
+ border: none;
+ width: 95vw;
+ height: 50vh;
+}

@@ -2,18 +2,18 @@
    font-family: "simraitswe";
    font-style: normal;
    font-weight: normal;
-   src: url("/simraitswe.woff") format('woff'), url("/simraitswe.tff") format('truetype');
+   src: url("simraitswe.woff") format('woff'), url("simraitswe.tff") format('truetype');
 }
 body {
-    font-size: 15pt;
-    font-family: simraitswe;
+    font-size: 20pt;
+    font-family: simraitswe, sans-serif;
     font-style: normal;
     color: white;
     background-color: black;
     font-size: 10px
 }
 textarea{
- font-size: 15pt;
+ font-size: 20pt;
  font-family: simraitswe;
  font-style: normal;
  color: white;
